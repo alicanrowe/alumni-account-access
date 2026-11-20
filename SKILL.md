@@ -67,4 +67,5 @@ Add a dated line here whenever a case teaches something the steps above miss.
 
 - 2026-11: A graduate's school can email them their own sign-in instructions. Always ask for that email before diagnosing from the generic steps. Search their personal mailbox for the school's domain if they've connected it, and look at any screenshot they sent, which often shows the real blocker.
 - 2026-11: The common dead end is a reset PIN going to an outdated recovery email. The registrar can't fix that, so go straight to the IT help desk.
+- 2026-11: Graduates who moved away can't verify in person. Say so in the help desk request and offer phone or video verification up front.
 - 2026-11: Transcripts rarely need the school login. Check the transcript vendor route first, so applications aren't blocked on account recovery.
