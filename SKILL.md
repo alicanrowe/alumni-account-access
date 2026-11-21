@@ -61,6 +61,15 @@ Once they are back in:
 - Note the inactivity rule (for example, sign in once every 6 months) and set a recurring reminder for it.
 - Forward important mail to a personal address, and update recommenders and application portals to use the personal address.
 
+## Excuses that don't count
+Each of these is a shortcut that ends in a broken result. If you catch yourself thinking the left column, do the right column.
+
+| The excuse | What to do instead |
+|---|---|
+| "The help desk will figure out who I am" | Send the request with every identifier the profile holds (ID number, grad year, old address) so it isn't bounced back. |
+| "The account will probably stay open" | Check the school's alumni policy page for the actual cut-off date and write it down. |
+| "I'll fill in their details on the form" | Personal data and sign-ins are the user's to enter; draft the text, they submit it. |
+
 ## Learnings
 
 Add a dated line here whenever a case teaches something the steps above miss.
