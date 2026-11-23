@@ -49,3 +49,7 @@ Source: Alumni email FAQ, https://services.newschool.edu/TDClient/32/Portal/KB/A
 - Degree verification, degree conferral and diploma services: creditanddegree@newschool.edu. https://www.newschool.edu/registrar/verifications
 - Replacement diploma: registrar form, fee applies, marked "Reissued." https://www.newschool.edu/registrar/diplomas
 - Certified electronic diploma (CeCredential): https://www.newschool.edu/registrar/certified-electronic-credential-diploma. It is sent to the school email, so it needs a working school login.
+
+## How IT Central verifies alumni remotely (seen 2026-11)
+
+About 40 minutes after the ticket is opened, an agent asks for: full name, personal email, phone, New School college, degree, graduation year, and dorm (if any). Reply to that ticket email itself, not with a new message, so the reply attaches to the same ticket. No in-person visit was required.
