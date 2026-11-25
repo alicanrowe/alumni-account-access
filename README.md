@@ -1,3 +1,5 @@
+![Alumni account access: Get back into a university account after graduation and line up the records applications need.](.github/banner.png)
+
 # alumni-account-access
 
 A Claude skill for getting back into your university account after graduation and lining up the records grad school applications need.
